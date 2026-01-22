@@ -1,1 +1,1 @@
-This folder contains the Python scripts used in the analysis.
+This folder contains the Python scripts used for the core calculations.
