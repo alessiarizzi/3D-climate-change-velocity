@@ -1,0 +1,20 @@
+name: climate-velocity-3d
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xarray
+  - dask
+  - netcdf4
+  - h5netcdf
+  - rioxarray
+  - geopandas
+  - pyproj
+  - cartopy
+  - matplotlib
+  - seaborn
+  - cdsapi
