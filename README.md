@@ -1,7 +1,5 @@
 # 3D climate change velocity
 
-[!\[Paper](https://doi.org/10.1016/j.ecolind.2026.115018)](https://doi.org/10.1016/j.ecolind.2026.115018)
-[![DOI](https://doi.org/10.5281/zenodo.18340030)](https://doi.org/ZENODO_DOI)
 Code to compute **analogue-based 3D climate velocity** in marine environments, applied to the whole water column of the Mediterranean Sea.
 
 Companion code to:
